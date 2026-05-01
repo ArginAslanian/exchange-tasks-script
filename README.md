@@ -26,3 +26,22 @@ Download or clone the script to your local machine. Execute the script from your
 
 ```powershell
 .\exchange-script.ps1 -Username admin@yourdomain.com
+```
+
+## Main Menu System
+
+<img width="503" height="307" alt="Menu System" src="https://github.com/user-attachments/assets/23fcb73f-a7c9-4465-b17e-2304c885f91d" />
+
+
+## Mailbox Menu System
+
+<img width="366" height="298" alt="Mailbox Menu System" src="https://github.com/user-attachments/assets/7f37e17e-4708-4a4b-b25b-a3feabc1b5a1" />
+
+## Calendar Menu System
+
+<img width="361" height="234" alt="Calendar Menu System" src="https://github.com/user-attachments/assets/ae78f3bb-9cab-40f6-bf75-c9f1f9f0b6d7" />
+
+## Distribution Groups Menu System
+
+<img width="345" height="241" alt="Distribution Groups Menu System" src="https://github.com/user-attachments/assets/54c32f5c-afff-4099-ae9b-ba3199e43d2e" />
+
